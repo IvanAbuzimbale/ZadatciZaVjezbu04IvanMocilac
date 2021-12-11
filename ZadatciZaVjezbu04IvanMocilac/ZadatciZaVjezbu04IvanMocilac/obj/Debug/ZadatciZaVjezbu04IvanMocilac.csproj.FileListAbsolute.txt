@@ -1,0 +1,6 @@
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\bin\Debug\ZadatciZaVjezbu04IvanMocilac.exe.config
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\bin\Debug\ZadatciZaVjezbu04IvanMocilac.exe
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\bin\Debug\ZadatciZaVjezbu04IvanMocilac.pdb
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\obj\Debug\ZadatciZaVjezbu04IvanMocilac.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\obj\Debug\ZadatciZaVjezbu04IvanMocilac.exe
+C:\Users\ivanm\source\repos\ZadatciZaVjezbu04IvanMocilac\ZadatciZaVjezbu04IvanMocilac\obj\Debug\ZadatciZaVjezbu04IvanMocilac.pdb
